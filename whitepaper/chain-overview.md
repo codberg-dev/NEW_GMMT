@@ -7,7 +7,7 @@
 - **Base:** BAS (BNB Application Sidechain), go-ethereum (geth) fork
 - **Consensus:** PoSA (Proof of Staked Authority)
 - **Block time:** ~3 seconds
-- **Validators:** managed validator set _(current count: confirm via explorer / node ops)_
+- **Validators:** PoSA validator set — up to **21** active validators
 - **Smart contracts:** supported (EVM)
 - **Explorer:** scan.gmmtchain.io
 - **Wallet:** GM Wallet (wallet.mammothlabs.io)
@@ -24,4 +24,4 @@ RWA does not require replacing the base chain, but long-term competitiveness, se
 | C · Oracle | Price feeds for RWA/DeFi (planned) | **Prerequisite** |
 | D · Bridge & DEX | Bridge (operating) + own DEX; extend to major-chain DEX liquidity | **High impact** |
 
-**Status notes:** a bridge is currently operating; an RWA/DeFi price oracle is planned. Exact node client/EVM versions, the current validator count, and the upgrade process are confirmed with node operations.
+**Status notes:** a bridge is currently operating; an RWA/DeFi price oracle is planned. Exact node client/EVM versions and the upgrade process are confirmed with node operations.
