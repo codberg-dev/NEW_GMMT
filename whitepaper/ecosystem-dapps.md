@@ -7,8 +7,7 @@ GMMT is reactivating its ecosystem — keeping what is live, retiring what is no
 | **GM Wallet** | Wallet | Maintain & strengthen; RWA asset support on roadmap |
 | **IvorySwap** | DEX | Reactivate; RWA liquidity hub |
 | **EDEM** | NFT | Reactivate |
-| **ROOFI** (ex-CFN) | — | Rebranding; integrate after relaunch |
-| Cokili · E-Paradise · Ganesha | C2E / Casino etc. | Review, then keep or retire **[TBD]** |
-| ~~DOSA SURVIVOR~~ | Game | **Retired** (service discontinued) |
+| **Lookchin** | Commerce | Active; Web3 second-hand trading & e-commerce (successor to Cokili) |
+| ~~E-Paradise · Ganesha · DOSA SURVIVOR~~ | — | **Retired / not launched** |
 
-> **[TBD]** operational status of Cokili / E-Paradise / Ganesha.
+The reactivation priority is the core stack — **GM Wallet, IvorySwap, EDEM, and Lookchin** — with each app connected to the GMMT chain and, where relevant, to the RWA framework.

@@ -7,8 +7,7 @@ GMMT는 생태계를 재가동합니다 — 살아있는 것은 유지, 중단�
 | **GM Wallet** | 지갑 | 유지·강화; RWA 자산 지원 로드맵 |
 | **IvorySwap** | DEX | 재가동; RWA 유동성 허브 |
 | **EDEM** | NFT | 재가동 |
-| **ROOFI** (구 CFN) | — | 리브랜딩 중; 완료 후 편입 |
-| Cokili · E-Paradise · Ganesha | C2E/카지노 등 | 점검 후 유지/정리 **[확인 필요]** |
-| ~~DOSA SURVIVOR~~ | 게임 | **정리**(서비스 중단) |
+| **Lookchin** | 커머스 | 운영 중; Web3 중고거래·이커머스 (Cokili 후속) |
+| ~~E-Paradise · Ganesha · DOSA SURVIVOR~~ | — | **정리/미출시** |
 
-> **[확인 필요]** Cokili · E-Paradise · Ganesha 운영 여부.
+재가동 우선순위는 핵심 스택 — **GM Wallet, IvorySwap, EDEM, Lookchin** — 이며, 각 앱은 GMMT 체인과 연결되고 필요 시 RWA 프레임워크와 연동됩니다.
