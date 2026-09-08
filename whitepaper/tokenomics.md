@@ -1,11 +1,9 @@
 # 4. Tokenomics
 
-> **[TBD — figures to be confirmed]**
+- **Total supply:** 3,000,000,000 GMMT
+- **Supply history:** reduced from an original 5,000,000,000 through a **2,000,000,000 GMMT burn**
+- **Circulating supply:** ~100% — fully unlocked and in circulation (no remaining team/investor lockups)
+- **Utility:** network gas/fees, staking, and ecosystem / RWA utility
+- **Current price / market cap:** reference live data (explorer & market-data aggregators) — not hardcoded here
 
-- **Total supply:** [TBD]
-- **Circulating supply:** fully unlocked / in circulation
-- **Utility:** gas/fees, staking, ecosystem/RWA utility [TBD]
-- **Distribution / vesting:** historical; no remaining lockups [confirm]
-- **Current price / market cap:** [TBD — do not hardcode; reference live data]
-
-This section will be finalized once verified figures are provided. Live metrics should reference the explorer and market data aggregators rather than static numbers.
+The full unlock is treated transparently: it removes future unlock overhang, and the historical burn reduced total supply by 40%. From here, value is driven by real utility — the ecosystem, staking, and the RWA direction — rather than by remaining vesting schedules.

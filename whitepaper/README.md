@@ -10,4 +10,4 @@ Giant Mammoth Chain (GMMT) is an EVM-compatible public blockchain (Chain ID **89
 
 This whitepaper (v4) describes that direction — the vision, the technology, the RWA framework, tokenomics, ecosystem, roadmap, and the risks and safeguards involved.
 
-> **Status:** Draft. Items marked **[TBD]** require confirmation before publication. This document does not constitute financial advice or an offer of securities.
+> **Status:** Draft (v4). Figures and plans reflect the current relaunch and may be updated as products, partners, and on-chain parameters are finalized. This document does not constitute financial advice or an offer of securities.
